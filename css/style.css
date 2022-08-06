@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+    color: #66BFBF;
+    font-size: 50px;
+    margin: 50px auto 0 auto;
+    font-family: 'Signika', sans-serif;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 200px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.btn {
+color: white;
+background: #E4F9F5;
+text-decoration: none;
+border-radius: 20px;
+padding: 10px 20px 10px 20px;
+font-size: 20px;
+font-family: 'Montserrat', sans-serif;
+background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+margin: 20px;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 350px;
+}
+.contact-me {
+  color: #11999E;
+  margin: 30px;
+}
+.my-image {
+  border-radius: 100px;
+  margin: 50px auto;
+}
+.circular {
+  border-radius: 100px;
+  margin: 50px;
+  float: left;
+}
+.skill-image {
+  border-radius: 100px;
+  margin: 50px;
+  float: right;
+}
+.skill-row {
+  width: 50%;
+margin: auto;
+text-align: left;
+line-height: 2;
+}
+.my-profile {
+  width: 50%;
+margin:auto;
+line-height: 2;
+}
+.social {
+  color: #11999E;
+  margin-left: 20px;
+}
+.copyright {
+  color: white;
+}
